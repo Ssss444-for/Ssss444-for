@@ -1,22 +1,21 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Kantapat Panadon</h1>
-<h3 align="center">Student RMUTL69</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Kantapat%20Panadon&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%5BRmutl%20Student%5D&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Ssss444-for">
-    <img src="https://komarev.com/ghpvc/?username=Ssss444-for&label=Profile%20views&color=00FFFF&style=flat-square" alt="Ssss444-for's profile views" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Teach%2FPractice%20my%20coding%20skill" alt="Typing introduction" />
 </p>
 
+<img src="https://images8.alphacoders.com/121/1210573.jpg" alt="Banner" width="100%" />
+
 ## 📌 About Me
-- Software Engineer69
-- |Future : QA Engineer/Software Tester || Interest :- UX/UI Game|
-- Hobbie Custom Vespa Sprint150s
-- >Ves Group : Luxevescnx<
+- Rmutl Student|Software Engineer-69
+- RMUTL(Doi saket)
+- Practice coding skill up
 
 
 ## 🧠 My Focus Areas
-- UX/UI
+- [ UX/UI ]
 - Game Developer
+- Investment
 
 
 ## 🛠️ Languages & Tools
@@ -27,12 +26,8 @@
 
 </p>
 
+## 🔗 Connect with Me
 <p align="center">
-  <a href="https://github.com/Ssss444-for">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ssss444-for&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
+  <a href="https://wa.me/612956308"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
-
-## 💬 Quote
-> Just practice my coding to growing up bigger than now
 

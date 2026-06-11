@@ -10,6 +10,8 @@
 ## 📌 About Me
 - Software Engineer69
 - |Future : QA Engineer/Software Tester || Interest :- UX/UI Game|
+- Hobbie Custom Vespa Sprint150s
+- >Ves Group : Luxevescnx<
 
 
 ## 🧠 My Focus Areas
@@ -30,5 +32,4 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ssss444-for&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
   </a>
 </p>
-
 

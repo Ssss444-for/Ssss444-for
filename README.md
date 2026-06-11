@@ -33,3 +33,6 @@
   </a>
 </p>
 
+## 💬 Quote
+> Just practice my coding to growing up bigger than now
+
